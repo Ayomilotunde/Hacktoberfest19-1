@@ -20,3 +20,4 @@ Add your name to the list below, and send a PR
 | Elfin Sanjaya | [elfinsanjaya12](https://github.com/elfinsanjaya12) |
 | Yusuf Adefolahan | [sanxy](https://github.com/sanxy) |
 | Adeoye Ayomide | [Ayomilotunde](https://github.com/Ayomilotunde) |
+| Abdullahi Saidu | [Abdullah1044](https://github.com/Abdullah1044) |  
